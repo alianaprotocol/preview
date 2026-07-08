@@ -2,7 +2,7 @@
 
 ## Campaign 1: ALP‑1 10×10 Genesis
 - **Pool Size:** $500,000 in ALP (fixed)  
-- **Eligibility:** ALP‑1 valid account required.
+- **Eligibility:** Self ALP‑1 valid account required.
 
 | Stage | Requirement | Reward | Condition |
 |:-----:|-------------|:------:|-----------|
@@ -16,7 +16,7 @@
 
 ## Campaign 2: ALP‑2 10×10 Genesis
 - **Pool Size:** $1,500,000 in ALP (fixed)  
-- **Eligibility:** ALP‑2 valid account required.
+- **Eligibility:** Self ALP‑2 valid account required.
 
 | Stage | Requirement | Reward | Condition |
 |:-----:|-------------|:------:|-----------|
