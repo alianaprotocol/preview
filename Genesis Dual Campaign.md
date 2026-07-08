@@ -1,6 +1,6 @@
 # Aliana Genesis Campaign
 
-## Campaign 1: ALP‑1 10×10 Genesis
+## Campaign 1: ALP‑1 10×10
 - **Pool Size:** $500,000 in ALP (fixed)  
 - **Eligibility:** Self ALP‑1 valid account required.
 
@@ -14,7 +14,7 @@
 
 ---
 
-## Campaign 2: ALP‑2 10×10 Genesis
+## Campaign 2: ALP‑2 10×10 
 - **Pool Size:** $1,500,000 in ALP (fixed)  
 - **Eligibility:** Self ALP‑2 valid account required.
 
