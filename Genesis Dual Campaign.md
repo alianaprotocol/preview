@@ -1,4 +1,4 @@
-# Aliana Genesis Dual Campaign
+# Aliana Genesis Campaign
 
 ## Campaign 1: ALP‑1 10×10 Genesis
 - **Pool Size:** $500,000 in ALP (fixed)  
